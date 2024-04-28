@@ -308,6 +308,6 @@ print(confusion_matrix(y_test,predictions))
 
 # **What performed better the random forest or the decision tree?**
 
-# After analying both model were relatively same model using decision tree is better with 85% recall compare to RandomForest recall
+# After analying both model were relatively same model using RANDOM FORESTMODEL is better in compare to DECISION TREES MODEL recall
 
 # # Great Job!
